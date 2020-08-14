@@ -14,5 +14,6 @@ STEPS :
 
 Screenshot : 
 
-![thumbnail2](https://user-images.githubusercontent.com/30195666/90256273-20b3bc00-de63-11ea-8143-53a8c8fe541d.gif)
+![thumbnail3](https://user-images.githubusercontent.com/30195666/90257528-eea35980-de64-11ea-9bc2-199776bc46b4.png)
+
 
